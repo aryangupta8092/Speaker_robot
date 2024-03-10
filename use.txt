@@ -1,0 +1,3 @@
+=> pip install pyttsx3 One option is to use the built-in pyttsx3 library, which is a Python library for text-to-speech conversion.
+=> if __name__ == '__main__' 
+This is useful for separating code that is meant to be standalone from code that is meant to be reusable in other modules or scripts.
